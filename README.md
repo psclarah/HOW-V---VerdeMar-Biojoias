@@ -10,3 +10,6 @@ Repositório referente ao Projeto Integrador Extensionista, contendo evidências
 
 ###### Primeira entrevista: Briefing (áudio)
 Clique [aqui](https://drive.google.com/file/d/1oYUwsXBSEhUaFN_FACSAcfIgfMBH8AnG/view?usp=sharing) para acessar o Drive da entrevista.
+
+## Informações do código
+Em breve
